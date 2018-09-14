@@ -1,0 +1,16 @@
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.deps.json
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.json
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.dev.json
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.dll
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.pdb
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cache
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cs
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfoInputs.cache
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfo.cs
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.dll
+C:\misc\Interview\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.pdb
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\wwwroot\index.html
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\js\Contacts.js
+C:\misc\Interview\AddressBook\bin\Debug\netcoreapp2.1\js\index.js
